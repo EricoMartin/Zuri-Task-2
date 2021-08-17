@@ -1,6 +1,12 @@
 # Zuri-Task-2
 A simple app that collects user input and displays it on the screen. A simple program that prints my name.
+<p align="center">
+<img src="https://github.com/EricoMartin/Zuri-Task-2/blob/main/hng_logo.png" width="250">
+                                                                                                                                                
+<img src="https://github.com/EricoMartin/Zuri-Task-2/blob/main/ingressive_logo.png" width="250">
+<img src="https://github.com/EricoMartin/Zuri-Task-2/blob/main/zuri.png" width="250">
 
+</p>
 ## Zuri Task ScreenShot
 <p align="center">
 <img src="https://github.com/EricoMartin/Zuri-Task-2/blob/main/app/src/main/res/drawable/Screenshot_1629212483.gif" width="350">
